@@ -1,0 +1,18 @@
+{
+  "name": "@winsznx/flap-bountyfeed",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Daily bounty + leaderboard feed for Flap — running pool size, top scores per day, claimable amounts. Companion to @winsznx/flapwire.",
+  "license": "MIT",
+  "author": "winsznx",
+  "homepage": "https://github.com/winsznx/flap-bountyfeed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/winsznx/flap-bountyfeed.git"
+  },
+  "keywords": ["flap", "bounty", "leaderboard", "celo", "stacks", "feed"],
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
+}
