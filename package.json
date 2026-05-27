@@ -1,8 +1,8 @@
 {
-  "name": "@winsznx/flap-bountyfeed",
+  "name": "@winsznx/flapwire",
   "version": "0.1.0",
   "private": true,
-  "description": "Daily bounty + leaderboard feed for Flap — running pool size, top scores per day, claimable amounts. Companion to @winsznx/flapwire.",
+  "description": "Stake-to-play SDK for Flap on Celo (cUSD) + Stacks. Play lifecycle, score-threshold math, daily bounty roll, streak + podium badges.",
   "license": "MIT",
   "author": "winsznx",
   "homepage": "https://github.com/winsznx/flap-bountyfeed",
@@ -10,7 +10,15 @@
     "type": "git",
     "url": "https://github.com/winsznx/flap-bountyfeed.git"
   },
-  "keywords": ["flap", "bounty", "leaderboard", "celo", "stacks", "feed"],
+  "keywords": [
+    "flap",
+    "arcade",
+    "celo",
+    "stacks",
+    "cusd",
+    "stake-to-play",
+    "bounty"
+  ],
   "type": "module",
   "engines": {
     "node": ">=20"
