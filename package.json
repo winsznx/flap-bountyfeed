@@ -1,17 +1,16 @@
 {
   "name": "@winsznx/flapwire",
   "version": "0.1.0",
-  "private": true,
   "description": "Stake-to-play SDK for Flap on Celo (cUSD) + Stacks. Play lifecycle, score-threshold math, daily bounty roll, streak + podium badges.",
   "license": "MIT",
   "author": "winsznx",
-  "homepage": "https://github.com/winsznx/flap-bountyfeed",
+  "homepage": "https://github.com/winsznx/flapwire",
   "repository": {
     "type": "git",
-    "url": "https://github.com/winsznx/flap-bountyfeed.git"
+    "url": "https://github.com/winsznx/flapwire.git"
   },
   "bugs": {
-    "url": "https://github.com/winsznx/flap-bountyfeed/issues"
+    "url": "https://github.com/winsznx/flapwire/issues"
   },
   "keywords": [
     "flap",
@@ -61,6 +60,9 @@
     "typescript": "^5.6.0",
     "viem": "^2.21.0",
     "vitest": "^2.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "engines": {
     "node": ">=20"
